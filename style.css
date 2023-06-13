@@ -95,59 +95,6 @@ footer p {
   text-align: center;
   color: #000;
 }
-/*************** BACKGROUNDS **********************/
-.forside_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-.portfolio_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-.studiestart_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100%;
-  position: relative;
-}
-.emnesite_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100%;
-  position: relative;
-}
-.tshirt_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-
-  min-height: 100%;
-  position: relative;
-}
-.animation_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100%;
-  position: relative;
-}
-.flora_bg {
-  background-color: var(--LightGreen);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100%;
-  position: relative;
-}
 @media (min-width: 900px) {
   .leftalign {
     text-align: left;
