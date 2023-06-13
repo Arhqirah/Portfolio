@@ -155,32 +155,32 @@ footer p {
   }
 
   .forside_bg {
-    background-image: url(/IMAGES/tema6_bg.webp);
+    background-image: url(IMAGES/tema6_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .studiestart_bg {
-    background-image: url(/IMAGES/SS_bg.webp);
+    background-image: url(IMAGES/SS_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .emnesite_bg {
-    background-image: url(/IMAGES/emnesite_bg.webp);
+    background-image: url(IMAGES/emnesite_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .tshirt_bg {
-    background-image: url(/IMAGES/tshirt_bg.webp);
+    background-image: url(IMAGES/tshirt_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .animation_bg {
-    background-image: url(/IMAGES/animation_bg.webp);
+    background-image: url(IMAGES/animation_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
   .flora_bg {
-    background-image: url(/IMAGES/flora_bg.webp);
+    background-image: url(IMAGES/flora_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
